@@ -14,6 +14,11 @@ The purpose of this Demo project to illustrate the usage of MVVM architecture de
 9.JetPack Libraries
 
 
+
+Home Screen - Get latest viewed articles data from NY Times Most viewed articles API and display them in list.
+
+Detail Screen - On click of list item, redirect to the detail screen and showing the further details such as image, title, author, published date ,author, source etc.
+
 References:
 ViewModel https://developer.android.com/topic/libraries/architecture/viewmodel
 LiveData https://developer.android.com/topic/libraries/architecture/livedata
